@@ -1,6 +1,6 @@
-import DoubleHalf (double, half)
+import Attempt (double, half)
 import Test.Hspec
-import Test.QuickCheck
+-- import Test.QuickCheck
 
 main :: IO ()
 main = hspec $ do

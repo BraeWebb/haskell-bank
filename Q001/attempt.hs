@@ -1,9 +1,9 @@
-module DoubleHalf where
+module Attempt where
 
 double :: Int -> Int
-double = ...
+double x = x * 2
 
 
 half :: Int -> Int
-half = ...
+half x = x `div` 2
 
