@@ -1,4 +1,4 @@
-module Main where
+module DoubleHalf where
 
 double :: Int -> Int
 double = ...

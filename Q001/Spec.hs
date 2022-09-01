@@ -1,4 +1,4 @@
-import Main (double, half)
+import DoubleHalf (double, half)
 import Test.Hspec
 import Test.QuickCheck
 

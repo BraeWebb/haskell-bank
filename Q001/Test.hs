@@ -1,4 +1,4 @@
-import Main (double, half)
+import DoubleHalf (double, half)
 import Test.Tasty (defaultMain, testGroup)
 import Test.Tasty.HUnit (assertEqual, testCase)
 
