@@ -1,0 +1,16 @@
+{
+    "title": "double_half",
+    "lang": "haskell",
+    "tags": [
+        "COMP3400"
+    ],
+    "source": [
+        "attempt.hs"
+    ],
+    "test": [
+        "Test.hs"
+    ],
+    "info": [
+        "question.md"
+    ]
+}
