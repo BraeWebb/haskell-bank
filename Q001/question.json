@@ -8,7 +8,7 @@
         "attempt.hs"
     ],
     "test": [
-        "Test.hs"
+        "Spec.hs"
     ],
     "info": [
         "question.md"
