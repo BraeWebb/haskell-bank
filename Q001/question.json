@@ -5,7 +5,7 @@
         "COMP3400"
     ],
     "source": [
-        "attempt.hs"
+        "Attempt.hs"
     ],
     "test": [
         "Spec.hs"
