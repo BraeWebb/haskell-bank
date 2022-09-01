@@ -1,0 +1,15 @@
+{
+	"id": "001",
+	"name": "double_half",
+	"is_gui": "0",
+	"tags": [
+		"COMP3400"
+	],
+	"testfiles": [
+		{
+			"id": "001",
+			"name": "Test.hs",
+			"is_main": "1"
+		}
+	]
+}
