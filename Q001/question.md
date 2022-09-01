@@ -18,9 +18,9 @@ The `half` function should perform integer division by two.
 ## Examples
 
 ```
-λ> double 2
+> double 2
 4
-λ> half 9
+> half 9
 4
 ```
 
